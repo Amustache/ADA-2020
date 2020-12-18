@@ -1,4 +1,5 @@
 # "A Wolf in Sheep's Clothing": Linguistic Cues in Social Deduction Games
+Check our [data story](https://amustache.github.io/ADA-2020/)!
 
 ## Abstract
 We studied [[Niculae et al., 2015]](#niculae) and it enabled us to highlight certain clues of language linked to the imminence of betrayal. We would like to apply similar techniques to detect betrayal in social deduction games, like [Town of Salem](#salem), [Secret Hitler](#hitler), [Among Us](#amongus) or [Werewolf/Mafia](#mafia). Is it possible, by studying the public exchanges of the players during a textual game, to spot the "traitor"? The major difference with the basic article is that we are not looking for a betrayal to come - the breaking of a friendship - but a betrayal that has already taken place - for instance, the "wolf" seeks to win by posing as a "villager". As such, we are going to analyse textual exchanges of different games, and try to apply the same methods to multiple sessions.
